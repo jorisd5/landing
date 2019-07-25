@@ -13,6 +13,7 @@
   height: 100%;
   width: 120px;
   object-fit: cover;
+  object-position: center;
 }
 
 .card-product h2 {
